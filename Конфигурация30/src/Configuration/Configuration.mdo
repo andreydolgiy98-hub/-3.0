@@ -40,4 +40,5 @@
     <languageCode>ru</languageCode>
   </languages>
   <documents>Document.ЗаказНаряд</documents>
+  <enums>Enum.горы</enums>
 </mdclass:Configuration>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c637ca87-4441-4ffd-a164-b6d89a26a39e">
+  <producedTypes>
+    <refType typeId="603ff361-fa8f-487b-b2ab-10330fd373d2" valueTypeId="722646e7-186b-4210-b18e-daec3cc6768a"/>
+    <listType typeId="133d1677-eda7-434e-8d0c-784dfbfdf880" valueTypeId="44f0e1d3-2581-40e9-bd00-023153fabeb4"/>
+    <managerType typeId="6a76eab9-18df-4ad5-8663-91dbf41bb033" valueTypeId="5ad399ce-2fcc-4c57-be68-fd40f40f44d8"/>
+  </producedTypes>
+  <name>горы</name>
+  <synonym>
+    <key>ru</key>
+    <value>Горы</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="fa281cd5-9bfd-400a-91b5-12ce9315ec74">
+    <name>эверест</name>
+    <synonym>
+      <key>ru</key>
+      <value>Эверест</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
