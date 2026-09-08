@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="6b455c6c-b9f0-4fe5-9d71-93b836fd5bb4">
+  <name>Конфигурация30</name>
+  <synonym>
+    <key>ru</key>
+    <value>Конфигурация30</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="508b60ac-9213-494e-a17c-c7708022b1f8"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="ed4540c9-d547-48b2-8712-8cd971e6a535"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="b02a9805-ab87-40c4-a9c6-a4fea5480131"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="6cdacdf7-6082-4c68-a5d8-b5fcd3b427c1"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="147f432a-afa4-4677-aed8-13e53f36e454"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="a66cf52c-74a6-4419-9f10-1a7273ec7b62"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="934ecbbf-5355-4933-9bcc-c66d5ae88d32"/>
+  <configurationExtensionCompatibilityMode>8.3.27</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.27</compatibilityMode>
+  <languages uuid="c65baa29-0a7a-4792-9cde-6675e02e4867">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <documents>Document.ЗаказНаряд</documents>
+</mdclass:Configuration>
