@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="bd72a9dc-f14b-4ead-a8fd-2be7b2195010">
+  <producedTypes>
+    <refType typeId="0647ba24-1cac-4ca4-846e-cf5a86292721" valueTypeId="720d19c8-e85e-457e-b7e9-d6d2dc4b579a"/>
+    <listType typeId="2d1745aa-cf62-43ec-91a1-5d2cd58e6996" valueTypeId="33bef470-2997-477d-be49-8fac28c935fd"/>
+    <managerType typeId="99a1d0fa-19ef-492c-a8f7-13eaa6166a5c" valueTypeId="cb7e56c0-2c5a-40e8-8f8a-33f82d8796e2"/>
+  </producedTypes>
+  <name>Склады</name>
+  <synonym>
+    <key>ru</key>
+    <value>Склады</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="54305fcd-6c75-4d85-a006-5fbc0565f8f7">
+    <name>Основной</name>
+    <synonym>
+      <key>ru</key>
+      <value>Основной</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
