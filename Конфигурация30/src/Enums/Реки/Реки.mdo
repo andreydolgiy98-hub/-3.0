@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="596b4fcd-d2c6-46e5-b42b-dbf3b1d1b8f6">
+  <producedTypes>
+    <refType typeId="37eaec49-affe-4490-abb5-d1d3eac2e8a2" valueTypeId="c0931e61-fb64-46b2-b1ab-2789f4ddd577"/>
+    <listType typeId="ada44887-d794-48c0-be2a-01ef44fbcd61" valueTypeId="749a4a1c-4ff3-4112-9640-74a234c250c4"/>
+    <managerType typeId="07926dff-8b07-4f1c-8e7c-0efc27ee2804" valueTypeId="a8b8f6a1-9ad3-4a38-ae65-f1091c088ec8"/>
+  </producedTypes>
+  <name>Реки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Реки</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="d6302818-fb1b-42f0-bcbb-2a9b71afdde8">
+    <name>Дон</name>
+    <synonym>
+      <key>ru</key>
+      <value>Дон</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>
