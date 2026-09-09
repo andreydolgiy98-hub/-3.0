@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="c0511c9e-e685-480d-a491-f26761a3bef4">
+  <producedTypes>
+    <refType typeId="8d845fb0-e8f9-4942-9672-a90b8e6f9834" valueTypeId="53826938-ad8d-4bbb-a72a-6093c35810eb"/>
+    <listType typeId="0b92bc90-efe2-4bc3-aadb-a57b45190a34" valueTypeId="e5e988dd-2db1-43eb-8611-51d5a1dce14c"/>
+    <managerType typeId="fa288dd4-38b8-4b7f-8bb9-505e3a7dd3c1" valueTypeId="6c8968a6-571a-43a2-b835-d225e26bdcf1"/>
+  </producedTypes>
+  <name>Поля</name>
+  <synonym>
+    <key>ru</key>
+    <value>Поля</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+  <enumValues uuid="1cf2508b-24ee-451a-b4ce-06392f40ade7">
+    <name>Пшеничное</name>
+    <synonym>
+      <key>ru</key>
+      <value>Пшеничное</value>
+    </synonym>
+  </enumValues>
+</mdclass:Enum>

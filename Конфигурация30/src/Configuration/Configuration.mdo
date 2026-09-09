@@ -41,5 +41,6 @@
   </languages>
   <documents>Document.ЗаказНаряд</documents>
   <enums>Enum.горы</enums>
+  <enums>Enum.Поля</enums>
   <enums>Enum.Реки</enums>
 </mdclass:Configuration>
