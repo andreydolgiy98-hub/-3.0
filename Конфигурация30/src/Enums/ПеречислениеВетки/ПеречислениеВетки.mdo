@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Enum xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="fe2ba80d-45be-48b5-a69b-7096e8f7d12f">
+  <producedTypes>
+    <refType typeId="5ebd9a8b-c9c2-4a50-a032-a6d0c617aa5b" valueTypeId="3953686d-f667-4517-80e3-df5c7f5ae333"/>
+    <listType typeId="08ed659c-0f55-4b62-8d0a-8b48e4bf69d6" valueTypeId="5fe8676b-e083-4692-bd9e-53752fd735f8"/>
+    <managerType typeId="89c657aa-e875-430c-8d08-7541105e65ea" valueTypeId="93ce70ef-9a37-431b-bd26-d98f18932eac"/>
+  </producedTypes>
+  <name>ПеречислениеВетки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Перечисление ветки</value>
+  </synonym>
+  <quickChoice>true</quickChoice>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Enum>
