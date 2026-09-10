@@ -40,6 +40,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <documents>Document.ЗаказНаряд</documents>
+  <documents>Document.ПриемТоваров</documents>
   <enums>Enum.горы</enums>
   <enums>Enum.ПеречислениеВетки</enums>
   <enums>Enum.ПеречислениеОсновные</enums>
